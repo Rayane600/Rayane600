@@ -1,6 +1,6 @@
 👋 Hey there! I’m @Rayane600
 
-🔍 Into pentesting, malware, reverse engineering (the fun parts of cyber)
+🔍 Into malware, IAM and reverse engineering 
 
 📡 Still patching my skills in networking (Wireshark is slowly becoming a friend)
 
